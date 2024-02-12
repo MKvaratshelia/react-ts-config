@@ -1,0 +1,12 @@
+
+
+
+/node_modules
+/.vscode
+
+/build
+
+.env*.local
+.env
+/reports/unit
+
